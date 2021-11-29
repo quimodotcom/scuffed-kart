@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: ff69353130ce95b41b18422a36ea1087
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: blocks
+    100002: Camera
+    100004: colmesh
+    100006: columns_part1
+    100008: columns_part2
+    100010: columns_part3
+    100012: columns_part4
+    100014: columns_part5
+    100016: columns_part6
+    100018: columns_part7
+    100020: columns_part8
+    100022: //RootNode
+    100024: industrial
+    100026: landscape_main
+    100028: road_part1
+    100030: road_part1_MeshPart0
+    100032: road_part1_MeshPart1
+    100034: road_part2
+    100036: road_part3
+    100038: road_part4
+    100040: road_part5
+    100042: signs
+    100044: skyscrapers
+    100046: tunnel
+    400000: blocks
+    400002: Camera
+    400004: colmesh
+    400006: columns_part1
+    400008: columns_part2
+    400010: columns_part3
+    400012: columns_part4
+    400014: columns_part5
+    400016: columns_part6
+    400018: columns_part7
+    400020: columns_part8
+    400022: //RootNode
+    400024: industrial
+    400026: landscape_main
+    400028: road_part1
+    400030: road_part1_MeshPart0
+    400032: road_part1_MeshPart1
+    400034: road_part2
+    400036: road_part3
+    400038: road_part4
+    400040: road_part5
+    400042: signs
+    400044: skyscrapers
+    400046: tunnel
+    2300000: blocks
+    2300002: colmesh
+    2300004: columns_part1
+    2300006: columns_part2
+    2300008: columns_part3
+    2300010: columns_part4
+    2300012: columns_part5
+    2300014: columns_part6
+    2300016: columns_part7
+    2300018: columns_part8
+    2300020: industrial
+    2300022: landscape_main
+    2300024: road_part1_MeshPart0
+    2300026: road_part1_MeshPart1
+    2300028: road_part2
+    2300030: road_part3
+    2300032: road_part4
+    2300034: road_part5
+    2300036: signs
+    2300038: skyscrapers
+    2300040: tunnel
+    2300042: road_part1
+    3300000: blocks
+    3300002: colmesh
+    3300004: columns_part1
+    3300006: columns_part2
+    3300008: columns_part3
+    3300010: columns_part4
+    3300012: columns_part5
+    3300014: columns_part6
+    3300016: columns_part7
+    3300018: columns_part8
+    3300020: industrial
+    3300022: landscape_main
+    3300024: road_part1_MeshPart0
+    3300026: road_part1_MeshPart1
+    3300028: road_part2
+    3300030: road_part3
+    3300032: road_part4
+    3300034: road_part5
+    3300036: signs
+    3300038: skyscrapers
+    3300040: tunnel
+    3300042: road_part1
+    4300000: skyscrapers
+    4300002: landscape_main
+    4300004: road_part5
+    4300006: road_part4
+    4300008: road_part1_MeshPart0
+    4300010: road_part1_MeshPart1
+    4300012: road_part2
+    4300014: road_part3
+    4300016: columns_part3
+    4300018: columns_part2
+    4300020: columns_part4
+    4300022: columns_part5
+    4300024: columns_part8
+    4300026: columns_part6
+    4300028: columns_part7
+    4300030: columns_part1
+    4300032: blocks
+    4300034: tunnel
+    4300036: signs
+    4300038: industrial
+    4300040: colmesh
+    4300042: road_part1
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tank1
+    second: {fileID: 2100000, guid: 7b0dda6b5b90de7499462ee643d51f7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton fundament
+    second: {fileID: 2100000, guid: 9f878dc57c58cb345a36a4627147dd02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton1
+    second: {fileID: 2100000, guid: cdda8d21e20c37449a77ef1663cb1e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: betonwand 1
+    second: {fileID: 2100000, guid: c881fd85a9065db47be8b9dade7078db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden asphalt
+    second: {fileID: 2100000, guid: ff242d02b7249b4448b64a15a5b7fd9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boden landschaft
+    second: {fileID: 2100000, guid: 203004e75a9fdfd4faf85730db4ce0ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: colmesh
+    second: {fileID: 2100000, guid: 8d39370bccc4ef54a83bddf0fb2d0e0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: felsen
+    second: {fileID: 2100000, guid: 6265c4ba9cf22474dbb93b5625efdd22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gel_nder
+    second: {fileID: 2100000, guid: 8ac8322e525f48d4792cbfd2a03f15f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kanal boden
+    second: {fileID: 2100000, guid: 1eb9945779abd1d41a7c636de69e6e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kanal wand
+    second: {fileID: 2100000, guid: da14d04e3b51276468c829db04d57d41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roadblock
+    second: {fileID: 2100000, guid: 5aff47caf88df3942a662355e34f8ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rohr1
+    second: {fileID: 2100000, guid: f7d1ceef447079a4c99218a12a181e55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rohr1endst_ck
+    second: {fileID: 2100000, guid: 9850b18484c20884ea48437f8a7435eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: schilder metal main
+    second: {fileID: 2100000, guid: a8851d9ebdde7264eaed1b2b5a19d4ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: schilder schrift
+    second: {fileID: 2100000, guid: e9af5f40e716db14ca3cbdc9e4f9fd10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silo top
+    second: {fileID: 2100000, guid: 7b7d722c275614c43847a9131f3c1e7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silo wand oben
+    second: {fileID: 2100000, guid: 9a223d3640821114bb68a4851b1eca69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silo wand unten
+    second: {fileID: 2100000, guid: 2e611111da8337f459ede82fb7d74b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper 1
+    second: {fileID: 2100000, guid: 88e4305e91307f642a7f863c0835c29b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper 2
+    second: {fileID: 2100000, guid: 21d88b7ab2e426241b570c63dd04bbc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper 3
+    second: {fileID: 2100000, guid: b7d425f70b7986945b6d8520bff4cb5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper 4
+    second: {fileID: 2100000, guid: 7cbaaa54dfe7862428b64c1b58eb088f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper 5
+    second: {fileID: 2100000, guid: 8b647eb612edf6d45b98d75d7cdf52dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper 6
+    second: {fileID: 2100000, guid: 3fb4f93ce2e53d9409c3b232c8cbd666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper 7
+    second: {fileID: 2100000, guid: fb41dbf77ccade743b01342b14fb9f7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper 8
+    second: {fileID: 2100000, guid: 911f88af31332ea4c81795615c6ec3b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyscraper dach
+    second: {fileID: 2100000, guid: 9379659e0a1601844afa6fa35c6c4d60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stahl fundamente
+    second: {fileID: 2100000, guid: 8b0ac4627e9cd6042b263b645a9cfee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strasse 3spurig
+    second: {fileID: 2100000, guid: a1589a16a5d5d394f874575f24ff7a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stuetzpfeiler beton1
+    second: {fileID: 2100000, guid: 65f35f75b14be5a43b3c777180a5d036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stuetzpfeiler beton2
+    second: {fileID: 2100000, guid: 2fca3a6ad48631c40a435176354170af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tunnel aussenwand
+    second: {fileID: 2100000, guid: b4cb0b0ab029b11458ba95882e74b3c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tunnel bg
+    second: {fileID: 2100000, guid: d25632aad1415f74caa72baf98804505, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 2
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 37
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 1
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
